@@ -1,0 +1,36 @@
+*
+
+!*/
+
+
+!*.PrjPcb
+!*.PrjPcbVariants
+
+!*.SchDoc
+!*.PcbDoc
+
+!*.SchLib
+!*.PcbLib
+!*.IntLib
+!*.DbLib
+!*.SVNDbLib
+!*.CmpLib
+
+!*.OutJob
+!*.BomDoc
+!*.DraftsmanDoc
+!*.DraftsmanSmz
+
+
+!*.txt
+!*.md
+!*.pdf
+!.gitignore
+
+History/
+__Previews/
+Project Logs*/
+Project Outputs*/
+
+~$*
+*.~*
